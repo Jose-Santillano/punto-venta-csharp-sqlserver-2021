@@ -1,0 +1,178 @@
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\XTREM 4\source\repos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\XTREM 4\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticuloIngreso.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedorIngreso.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\santi\source\repos\CapaPresentacion\obj\Debug\CapaPresentacion.frmEntrada_Venta.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmEntrada_Venta.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticuloIngreso.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedorIngreso.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaPresentacion\bin\Debug\CapaDatos.dll.config

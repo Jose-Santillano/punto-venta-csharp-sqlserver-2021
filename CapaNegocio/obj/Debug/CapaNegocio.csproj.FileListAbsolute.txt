@@ -1,0 +1,28 @@
+C:\Users\XTREM 4\source\repos\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\XTREM 4\source\repos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\XTREM 4\source\repos\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\XTREM 4\source\repos\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\XTREM 4\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\XTREM 4\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\XTREM 4\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\XTREM 4\source\repos\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\XTREM 4\source\repos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\santi\source\repos\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\santi\source\repos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\santi\source\repos\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\santi\source\repos\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\santi\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\santi\source\repos\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\santi\source\repos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\PC\Desktop\PuntoDeVenta-CSharp-SQLServer\CapaNegocio\bin\Debug\CapaDatos.dll.config
